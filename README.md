@@ -1,4 +1,5 @@
 ![Tick Logo](tick.png)
+
 Tick is a general purpose programming language consisting of these 3 parts:
 - Compiler - A small compiler that produces ASM (Coming Soon...)
 - Assembler - An assembler that produces a custom binary
